@@ -1,7 +1,6 @@
 ## Status of Assignments
----
-'✔️' : Means assignment done
-'❌' : Means assignment not done
+#### '✔️' : Means assignment Completed
+#### '❌' : Means assignment not done
 1. Stack [Post Class]
      ```
      1. ❌ Greater is better
