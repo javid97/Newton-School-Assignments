@@ -1,3 +1,5 @@
+# Newton School Assignments
+
 ## Status of Assignments
 #### '✔️' : Means assignment Completed
 #### '❌' : Means assignment not done
@@ -93,7 +95,7 @@
      ```
      1. ✔️ Sum and Mean
      2. ❌ Increasing array
-     3. ✔️ Average me
+     [3. ✔️Average me](https://github.com/javid97/Newton-School-Assignments/blob/main/1-D%20Array%20%5BIn%20Class%5D/AverageMe.js)
      ```
 1. ✔️ Control Structures and Loops [Post Class]
      ```
