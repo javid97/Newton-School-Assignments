@@ -131,9 +131,9 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Clases in java](https://github.com/javid97/Newton-School-Assignments/blob/main/Objected%20Oriented%20Programming%20%5BIn%20Class%5D/ClassesInJava.java)
      </br></br>
 
-1. Functions & Recursion [In Class]
+1. ✔️ Functions & Recursion [In Class]
      ___
-     1. ❌ Power function
+     1. ✔️ [Power function]((https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%26%20Recursion%20%5BIn%20Class%5D/PowerFunction.js))
      1. ✔️ [Tower of Hanoi](https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%26%20Recursion%20%5BIn%20Class%5D/TowerOfHanoi.js)
      1. ✔️ [Factorial - Recursion](https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%26%20Recursion%20%5BIn%20Class%5D/FactorialRecursion.js)
 
