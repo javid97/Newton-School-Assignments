@@ -138,9 +138,16 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Factorial - Recursion](https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%26%20Recursion%20%5BIn%20Class%5D/FactorialRecursion.js)
      <br/><br/>
 
-1. ✔️ JS Practise Contest
+1. ✔️ (15 Feb 2022) JS Practise Contest
      ___
      1. ✔️ [Todo List - Js](https://github.com/javid97/Newton-School-Assignments/tree/main/JS%20practice%20Contest)
      1. ✔️ [JS Reverse](https://github.com/javid97/Newton-School-Assignments/blob/main/JS%20practice%20Contest/JsReverse.js) 
+</br></br>
+1. ✔️ (8 Feb 2022) JS Contest - 2
+     ___
+     1. ✔️ [Youtube Likes](https://github.com/javid97/Newton-School-Assignments/tree/main/JS%20practice%20Contest)
+     1. ✔️ [Hot or Cold: Part-1](https://github.com/javid97/Newton-School-Assignments/blob/main/JS%20practice%20Contest/JsReverse.js) 
+     1. ✔️ [Grocery list](https://github.com/javid97/Newton-School-Assignments/blob/main/JS%20practice%20Contest/JsReverse.js) 
+     1. ✔️ [Javascript Prototypes](https://github.com/javid97/Newton-School-Assignments/blob/main/JS%20practice%20Contest/JsReverse.js) 
 </br></br>
 

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Document</title>
+</head>
+<body>
+     <p id="main">
+          I am learning to generate random number. I will be able to handle randomness in any of my applications that needs
+          it. Press the button to get a random number.
+     </p>
+     
+     <button id="btn" onclick="displayRandomNumber()">Click Me!!</button>
+     <p id="num"></p>
+     <script>
+          const numTag = document.getElementById('num');
+               function displayRandomNumber() {
+                    let numArr = [];
+                    for (let i = -20; i < 21; i++) {
+
+                    }
+                    let random = Math.floor(Math.random() * 20)
+                    numTag.innerHTML = random;
+               }
+     </script>
+</body>
+</html>
