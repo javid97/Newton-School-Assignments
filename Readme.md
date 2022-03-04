@@ -45,7 +45,7 @@ Here is the list of assignments with their links to the code
      1. ❌ Longest Distinct characters in string
      1. ❌ Reverse
      1. ✔️ [Is palindrome?](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/isPalindrome.js)
-     1. ❌ Longest Common Prefix in an Array
+     1. ✔️ [Longest Common Prefix in an Array](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/LongestCommonPrefixInAnArray.js)
      1. ✔️ [Odd characters](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/OddCharacters.js)
      1. ❌Pangram Checking
      <br /><br />
