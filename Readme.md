@@ -42,7 +42,7 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Repeating Character - First Appearance Leftmost](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/RepeatingCharacter.js)
      1. ✔️ [String Sum](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/StringSum.js)
      1. ✔️ [Anagram](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/Anagram.js)
-     1. ❌ Longest Distinct characters in string
+     1. ✔️ [Longest Distinct characters in string](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/LongestDistinctCharacters.java)
      1. ❌ Reverse
      1. ✔️ [Is palindrome?](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/isPalindrome.js)
      1. ✔️ [Longest Common Prefix in an Array](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/LongestCommonPrefixInAnArray.js)
