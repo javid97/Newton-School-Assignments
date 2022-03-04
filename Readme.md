@@ -149,5 +149,6 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Hot or Cold: Part-1](https://github.com/javid97/Newton-School-Assignments/blob/main/(8%20Feb%202022)%20Js%20Contest%20-%202/HotOrCold.html) 
      1. ✔️ [Grocery list](https://github.com/javid97/Newton-School-Assignments/blob/main/(8%20Feb%202022)%20Js%20Contest%20-%202/GroceryList.html) 
      1. ✔️ [Javascript Prototypes](https://github.com/javid97/Newton-School-Assignments/blob/main/(8%20Feb%202022)%20Js%20Contest%20-%202/JavascriptPrototypes.js) 
+     1. ✔️ [Js Error Handling](https://github.com/javid97/Newton-School-Assignments/blob/main/(8%20Feb%202022)%20Js%20Contest%20-%202/JsErrorHandling.js) 
 </br></br>
 
