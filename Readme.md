@@ -25,11 +25,11 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Array implementation of stack](https://github.com/javid97/Newton-School-Assignments/blob/main/Stack%20%5BPost%20Class%5D/Array%20implementation%20of%20stack.java)
      <br/><br/>
 
-1. ArrayList and Linked List [Post Class]
+1. ✔️ ArrayList and Linked List [Post Class]
      ___
      1. ✔️ [Delete the Kth node from the end](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/DeleteTheKthNodeFromTheEnd.java)
      1. ✔️ [Print the Linked List](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/PrintTheLinkedList.java)
-     1. ❌ Intersection of two linked list
+     1. ✔️ [Intersection of two linked list](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/IntersectionOfTwoLinkedLists.java)
      1. ✔️ [Palindrome List](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/PalindromeList.java)
      1. ✔️ [Merge two sorted linked list](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/MergeTwoSortedLinkedLists.java)
      1. ✔️ [Deletion in Doubly Linked List](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/DeletionInDoublyLinkedList.java)
