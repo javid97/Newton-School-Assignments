@@ -138,6 +138,9 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Factorial - Recursion](https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%26%20Recursion%20%5BIn%20Class%5D/FactorialRecursion.js)
      <br/><br/>
 
-1. ✔️ [JS Practise Contest](https://github.com/javid97/Newton-School-Assignments/tree/main/JS%20practice%20Contest)
+1. ✔️ JS Practise Contest
+     ___
+     1. ✔️ [Todo List - Js](https://github.com/javid97/Newton-School-Assignments/tree/main/JS%20practice%20Contest)
+     1. ✔️ [JS Reverse](https://github.com/javid97/Newton-School-Assignments/tree/main/JS%20practice%20Contest) 
 </br></br>
 
