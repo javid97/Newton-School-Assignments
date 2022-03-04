@@ -90,10 +90,10 @@ Here is the list of assignments with their links to the code
      1. ❌ Shipping Parcels
      <br/><br/>
 
-1. Functions & Recursion
+1. ✔️ Functions & Recursion
      ___
      1. ✔️ [Candy Crush](https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%26%20Recursion/CandyCrush.java)
-     1. ❌ Number of ways
+     1. ✔️ [Number of ways](https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%26%20Recursion/NumberOfWays.java)
      1. ✔️ [Fibonacci Numbers](https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%26%20Recursion/FibonacciNumbers.js)
      1. ✔️ [Sum of digits](https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%26%20Recursion/SumOfDigits.js)
      1. ✔️ [Sum of Product of Digits of a given number](https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%26%20Recursion/SumOfProductOfDigitsOfaGivenNumber.js)
