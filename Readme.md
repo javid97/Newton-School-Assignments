@@ -36,14 +36,14 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Reversing a double linked list](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/ReversingADoublyLinkedList.java)
      <br/><br/>
 
-1. Strings[Post Class]
+1. ✔️ Strings[Post Class]
      ___
      1. ✔️ [Palindrome](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/Palindrome.js)
      1. ✔️ [Repeating Character - First Appearance Leftmost](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/RepeatingCharacter.js)
      1. ✔️ [String Sum](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/StringSum.js)
      1. ✔️ [Anagram](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/Anagram.js)
      1. ✔️ [Longest Distinct characters in string](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/LongestDistinctCharacters.java)
-     1. ❌ Reverse
+     1. ✔️ [Reverse](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5DReverse.py)
      1. ✔️ [Is palindrome?](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/isPalindrome.js)
      1. ✔️ [Longest Common Prefix in an Array](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/LongestCommonPrefixInAnArray.js)
      1. ✔️ [Odd characters](https://github.com/javid97/Newton-School-Assignments/blob/main/Strings%20%5BPost%20Class%5D/OddCharacters.js)
@@ -143,6 +143,7 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Todo List - Js](https://github.com/javid97/Newton-School-Assignments/tree/main/JS%20practice%20Contest)
      1. ✔️ [JS Reverse](https://github.com/javid97/Newton-School-Assignments/blob/main/JS%20practice%20Contest/JsReverse.js) 
 </br></br>
+
 1. ✔️ (8 Feb 2022) JS Contest - 2
      ___
      1. ✔️ [Youtube Likes](https://github.com/javid97/Newton-School-Assignments/blob/main/(8%20Feb%202022)%20Js%20Contest%20-%202/YoutubeLikes.html)
