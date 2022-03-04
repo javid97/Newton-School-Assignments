@@ -145,9 +145,9 @@ Here is the list of assignments with their links to the code
 </br></br>
 1. ✔️ (8 Feb 2022) JS Contest - 2
      ___
-     1. ✔️ [Youtube Likes](https://github.com/javid97/Newton-School-Assignments/tree/main/JS%20practice%20Contest)
-     1. ✔️ [Hot or Cold: Part-1](https://github.com/javid97/Newton-School-Assignments/blob/main/JS%20practice%20Contest/JsReverse.js) 
-     1. ✔️ [Grocery list](https://github.com/javid97/Newton-School-Assignments/blob/main/JS%20practice%20Contest/JsReverse.js) 
-     1. ✔️ [Javascript Prototypes](https://github.com/javid97/Newton-School-Assignments/blob/main/JS%20practice%20Contest/JsReverse.js) 
+     1. ✔️ [Youtube Likes](https://github.com/javid97/Newton-School-Assignments/blob/main/(8%20Feb%202022)%20Js%20Contest%20-%202/YoutubeLikes.html)
+     1. ✔️ [Hot or Cold: Part-1](https://github.com/javid97/Newton-School-Assignments/blob/main/(8%20Feb%202022)%20Js%20Contest%20-%202/HotOrCold.html) 
+     1. ✔️ [Grocery list](https://github.com/javid97/Newton-School-Assignments/blob/main/(8%20Feb%202022)%20Js%20Contest%20-%202/GroceryList.html) 
+     1. ✔️ [Javascript Prototypes](https://github.com/javid97/Newton-School-Assignments/blob/main/(8%20Feb%202022)%20Js%20Contest%20-%202/JavascriptPrototypes.js) 
 </br></br>
 
