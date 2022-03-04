@@ -109,10 +109,10 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Max sum column](https://github.com/javid97/Newton-School-Assignments/blob/main/2-D%20Matrix%20%5BIn%20Class%5D/MaxSumColumn.js)
      1. ✔️ [Diagonal Sum](https://github.com/javid97/Newton-School-Assignments/blob/main/2-D%20Matrix%20%5BIn%20Class%5D/DiagonalSum.js)
      <br/><br/>
-1. 1-D Array [In Class]
+1. ✔️ 1-D Array [In Class]
      ___
      1. ✔️ [Sum and Mean](https://github.com/javid97/Newton-School-Assignments/blob/main/1-D%20Array%20%5BIn%20Class%5D/SumAndMean.js "Sum and Mean")
-     1. ❌ Increasing array
+     1. ✔️ [Increasing array](https://github.com/javid97/Newton-School-Assignments/blob/main/1-D%20Array%20%5BIn%20Class%5D/IncreasingArray.java)
      1. ✔️ [Average me](https://github.com/javid97/Newton-School-Assignments/blob/main/1-D%20Array%20%5BIn%20Class%5D/AverageMe.js "Average Me")
      <br/><br/>
 1. ✔️ Control Structures and Loops [Post Class]
