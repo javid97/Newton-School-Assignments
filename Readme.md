@@ -136,4 +136,8 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Power function](https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%26%20Recursion%20%5BIn%20Class%5D/PowerFunction.js)
      1. ✔️ [Tower of Hanoi](https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%26%20Recursion%20%5BIn%20Class%5D/TowerOfHanoi.js)
      1. ✔️ [Factorial - Recursion](https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%26%20Recursion%20%5BIn%20Class%5D/FactorialRecursion.js)
+     <br/><br/>
+
+1. ✔️ [JS Practise Contest](https://github.com/javid97/Newton-School-Assignments/blob/main/Objected%20Oriented%20Programming%20%5BIn%20Class%5D)
+</br></br>
 
