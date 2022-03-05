@@ -104,6 +104,10 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Focal length of Spherical Mirror](https://github.com/javid97/Newton-School-Assignments/blob/main/Development%20Enviornment%20Setup%2C%20Fundamentals%20of%20java%20%5BIn%20Class%5D/FocalLengthOfSphericalMirror.java)
      1. ✔️ [Cuboid Perimeter](https://github.com/javid97/Newton-School-Assignments/blob/main/Development%20Enviornment%20Setup%2C%20Fundamentals%20of%20java%20%5BIn%20Class%5D/CuboidPerimeter.java)
      <br/><br/>
+1. ✔️ Children prop (Concept of Composition), Organizing Component Files, Component fu ...
+     ___
+     1. ✔️ [Nested List](https://github.com/javid97/Children-prop-Concept-of-Composition-Organizing-Component-Files-Component-fu-...---Post-Class---)
+     <br/><br/>
 1. ✔️ 2-D Matrix [In Class]
      ___
      1. ✔️ [Max sum column](https://github.com/javid97/Newton-School-Assignments/blob/main/2-D%20Matrix%20%5BIn%20Class%5D/MaxSumColumn.js)
