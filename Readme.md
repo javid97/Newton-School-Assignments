@@ -41,18 +41,18 @@ Here is the list of assignments with their links to the code
      <br/><br/>
 1. ❌ STL [Post Class]
      ___
-     1. ❌ [Bubble sort in pair array](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/DeleteTheKthNodeFromTheEnd.java)
-     1. ❌ [Largest subarray of 0's and 1's](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/PrintTheLinkedList.java)
-     1. ❌ [Subarray with given sum](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/IntersectionOfTwoLinkedLists.java)
-     1. ❌ [Floor and Ceil](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/PalindromeList.java)
-     1. ❌ [Maximum subarray sum modulo M](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/MergeTwoSortedLinkedLists.java)
-     1. ✔️ [Addition of Common Elements](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/DeletionInDoublyLinkedList.java)
-     1. ❌ [Mutating Array](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/ReversingADoublyLinkedList.java)
-     1. ❌ [Pair Sum Existence-Revisited](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/MergeTwoSortedLinkedLists.java)
-     1. ❌ [Max freq](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/MergeTwoSortedLinkedLists.java)
-     1. ❌ [Pair Sum in vector](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/MergeTwoSortedLinkedLists.java)
-     1. ❌ [Smaller elements](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/MergeTwoSortedLinkedLists.java)
-     1. ✔️ [Remove duplicates from array](https://github.com/javid97/Newton-School-Assignments/blob/main/ArrayList%20and%20Linked%20List%20%5BPost%20Class%5D/MergeTwoSortedLinkedLists.java)
+     1. ❌ Bubble sort in pair array
+     1. ❌ Largest subarray of 0's and 1's
+     1. ❌ Subarray with given sum
+     1. ❌ Floor and Ceil
+     1. ❌ Maximum subarray sum modulo M
+     1. ✔️ [Addition of Common Elements](https://github.com/javid97/Newton-School-Assignments/blob/main/STL%20%5BPost%20Class%5D/AdditionOfCommonElements.java)
+     1. ❌ Mutating Array
+     1. ❌ Pair Sum Existence-Revisited
+     1. ❌ Max freq
+     1. ❌ Pair Sum in vector
+     1. ❌ Smaller elements
+     1. ✔️ [Remove duplicates from array](https://github.com/javid97/Newton-School-Assignments/blob/main/STL%20%5BPost%20Class%5D/RemoveDuplicatesFromArray.java)
      <br/><br/>
 
 1. ✔️ Strings[Post Class]
