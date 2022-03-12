@@ -81,10 +81,10 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Implementing Merge Sort](https://github.com/javid97/Newton-School-Assignments/blob/main/Simple%20Array%20Sorting%20and%20its%20implementation%20%5BPost%20Class%5D/ImplementingMergeSort.js)
      <br/><br/>
 
-1. 2-D Matrix
+1. ✔️ 2-D Matrix
      ___
      1. ✔️ [Good Cells](https://github.com/javid97/Newton-School-Assignments/blob/main/2-D%20Matrix/GoodCells.js)
-     1. ❌ A Boolean Matrix Problem
+     1. ✔️ [A Boolean Matrix Problem](https://github.com/javid97/Newton-School-Assignments/blob/main/2-D%20Matrix/BooleanMatrix.java)
      1. ✔️ [Row with maximum 1's](https://github.com/javid97/Newton-School-Assignments/blob/main/2-D%20Matrix/RowWithMaximum1s.js)
      <br/><br/>
 
