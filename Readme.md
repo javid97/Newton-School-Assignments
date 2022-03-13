@@ -13,6 +13,10 @@ Here is the list of assignments with their links to the code
 * '❌' : Means assignment not avaliable yet
 <br/><br/>
 
+1. ✔️ React State & Events, Lifting The State Up, Updating State That Depends On The P ... - In Class
+     ___
+     1. ✔️ [Holiday List React Plans for holiday?](https://github.com/javid97/React-State-Events-Lifting-The-State-Up-Updating-State-That-Depends-On-The-P-...---In-Class---Ho)
+     <br/><br/>
 1. ✔️ React Handling Side Effects, What are "Side Effects" & Introducing useEffect, Us ... - Post Class
      ___
      1. ✔️ [React Pagination](https://github.com/javid97/React-Handling-Side-Effects-What-are-Side-Effects-Introducing-useEffect-Us-...---Post-Class---)
