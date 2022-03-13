@@ -26,7 +26,7 @@ Here is the list of assignments with their links to the code
      1. ❌ Greater is better
      1. ✔️ [Stack implemetation using linked list](https://github.com/javid97/Newton-School-Assignments/blob/main/Stack%20%5BPost%20Class%5D/Stack%20Implementation%20using%20linked%20list.java)
      1. ✔️ [Nearest Smaller Element](https://github.com/javid97/Newton-School-Assignments/blob/main/Stack%20%5BPost%20Class%5D/Nearest%20Smaller%20Element.java)
-     1. ❌ Stock Span Problem
+     1. ✔️ [Stock Span Problem](https://github.com/javid97/Newton-School-Assignments/blob/main/Stack%20%5BPost%20Class%5D/Stack%20StockSpanProblem.java)
      1. ✔️ [Stack operations](https://github.com/javid97/Newton-School-Assignments/blob/main/Stack%20%5BPost%20Class%5D/Stack%20Operations.java)
      1. ✔️ [Height Problem](https://github.com/javid97/Newton-School-Assignments/blob/main/Stack%20%5BPost%20Class%5D/Height%20Problem.java)
      1. ✔️ [Infix to Postfix](https://github.com/javid97/Newton-School-Assignments/blob/main/Stack%20%5BPost%20Class%5D/Infix%20to%20Postfix.java)
