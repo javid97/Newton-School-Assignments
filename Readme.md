@@ -97,7 +97,7 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Help Sherlock](https://github.com/javid97/Newton-School-Assignments/blob/main/Functions%20%5BPost%20Class%5D/HelpSherlock.js)
      <br/><br/>
      
-1. 1-D Array [Post Class]
+1. ✔️ 1-D Array [Post Class]
      ___
      1. ✔️ [Buildings](https://github.com/javid97/Newton-School-Assignments/blob/main/1-D%20Array%20%5BPost%20Class%5D/Buildings.js)
      1. ✔️ [Is this repeated? (Contest)](https://github.com/javid97/Newton-School-Assignments/blob/main/1-D%20Array%20%5BPost%20Class%5D/IsThisRepeated.java)
