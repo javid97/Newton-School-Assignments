@@ -100,7 +100,7 @@ Here is the list of assignments with their links to the code
 1. 1-D Array [Post Class]
      ___
      1. ✔️ [Buildings](https://github.com/javid97/Newton-School-Assignments/blob/main/1-D%20Array%20%5BPost%20Class%5D/Buildings.js)
-     1. ❌ Is this repeated? (Contest)
+     1. ✔️ [Is this repeated? (Contest)](https://github.com/javid97/Newton-School-Assignments/blob/main/1-D%20Array%20%5BPost%20Class%5D/IsThisRepeated.java)
      1. ✔️ [Simple Arrangement](https://github.com/javid97/Newton-School-Assignments/blob/main/1-D%20Array%20%5BPost%20Class%5D/SimpleArrangement.js)
      1. ✔️ [Alternate Sum product](https://github.com/javid97/Newton-School-Assignments/blob/main/1-D%20Array%20%5BPost%20Class%5D/AlternateSumproduct.js)
      1. ✔️ [Replace element](https://github.com/javid97/Newton-School-Assignments/blob/main/1-D%20Array%20%5BPost%20Class%5D/ReplaceElement.js)
