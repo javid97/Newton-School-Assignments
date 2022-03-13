@@ -106,6 +106,13 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Replace element](https://github.com/javid97/Newton-School-Assignments/blob/main/1-D%20Array%20%5BPost%20Class%5D/ReplaceElement.js)
      <br/><br/>
 
+1. Linear Search and Binary Search [Post Class]
+     ___
+     1. ✔️ [Square Root Of an Integer](https://github.com/javid97/Newton-School-Assignments/blob/main/Linear%20Search%20and%20Binary%20Search%20%5BIn%20Class%5D/SearchingAnElementInASortedArray.java)
+     1. ❌ K- sum
+     1. ❌ Min Cut Tree
+     1. ✔️ [Minimum Element in Sorted and Rotated Array]()
+     <br/><br/>
 1. Linear Search and Binary Search [In Class]
      ___
      1. ✔️ [Searching an element in a sorted array](https://github.com/javid97/Newton-School-Assignments/blob/main/Linear%20Search%20and%20Binary%20Search%20%5BIn%20Class%5D/SearchingAnElementInASortedArray.java)
