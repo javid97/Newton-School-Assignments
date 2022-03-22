@@ -47,7 +47,7 @@ Here is the list of assignments with their links to the code
      ___
      1. ❌ Bubble sort in pair array
      1. ❌ Largest subarray of 0's and 1's
-     1. ❌ Subarray with given sum
+     1. ✔️ [Subarray with given sum](https://github.com/javid97/Newton-School-Assignments/blob/main/STL%20%5BPost%20Class%5D/SubArrayWithGivenSum.java)
      1. ❌ Floor and Ceil
      1. ❌ Maximum subarray sum modulo M
      1. ✔️ [Addition of Common Elements](https://github.com/javid97/Newton-School-Assignments/blob/main/STL%20%5BPost%20Class%5D/AdditionOfCommonElements.java)
