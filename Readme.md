@@ -15,8 +15,10 @@ Here is the list of assignments with their links to the code
 
 1. React Router, Using Stateful Lists, Understanding "Keys", Adding Dynamic Styles, ... - Post Class
      ___
-     1. ❌ [Golf: Part-2](https://github.com/javid97/React-State-Events-Lifting-The-State-Up-Updating-State-That-Depends-On-The-P-...---In-Class---Ho)
+     1. ❌ [Golf: Part-2]()
      1. ✔️ [Relatives List React](https://github.com/javid97/Relatives-List-React)
+     1. ❌ [React Router easy]()
+     1. ❌ [React Router Medium]()
      <br/><br/>
 1. ✔️ React State & Events, Lifting The State Up, Updating State That Depends On The P ... - In Class
      ___
@@ -58,7 +60,7 @@ Here is the list of assignments with their links to the code
      1. ✔️ [Addition of Common Elements](https://github.com/javid97/Newton-School-Assignments/blob/main/STL%20%5BPost%20Class%5D/AdditionOfCommonElements.java)
      1. ❌ Mutating Array
      1. ❌ Pair Sum Existence-Revisited
-     1. ❌ Max freq
+     1. ✔️ [Max freq](https://github.com/javid97/Newton-School-Assignments/blob/main/STL%20%5BPost%20Class%5D/MaxFreq.java)
      1. ❌ Pair Sum in vector
      1. ❌ Smaller elements
      1. ✔️ [Remove duplicates from array](https://github.com/javid97/Newton-School-Assignments/blob/main/STL%20%5BPost%20Class%5D/RemoveDuplicatesFromArray.java)
