@@ -61,7 +61,7 @@ Here is the list of assignments with their links to the code
      1. ❌ Mutating Array
      1. ❌ Pair Sum Existence-Revisited
      1. ✔️ [Max freq](https://github.com/javid97/Newton-School-Assignments/blob/main/STL%20%5BPost%20Class%5D/MaxFreq.java)
-     1. ❌ Pair Sum in vector
+     1. ✔️ [Pair Sum in vector](https://github.com/javid97/Newton-School-Assignments/blob/main/STL%20%5BPost%20Class%5D/PairSumVector.java)
      1. ❌ Smaller elements
      1. ✔️ [Remove duplicates from array](https://github.com/javid97/Newton-School-Assignments/blob/main/STL%20%5BPost%20Class%5D/RemoveDuplicatesFromArray.java)
      <br/><br/>
