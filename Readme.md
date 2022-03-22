@@ -28,9 +28,9 @@ Here is the list of assignments with their links to the code
      ___
      1. ✔️ [React Pagination](https://github.com/javid97/React-Handling-Side-Effects-What-are-Side-Effects-Introducing-useEffect-Us-...---Post-Class---)
      <br/><br/>
-1. Stack [Post Class]
+1. ✔️ Stack [Post Class]
      ___
-     1. ❌ Greater is better
+     1. ✔️ [Greater is better](https://github.com/javid97/Newton-School-Assignments/blob/main/Stack%20%5BPost%20Class%5D/GreaterIsBetter.java)
      1. ✔️ [Stack implemetation using linked list](https://github.com/javid97/Newton-School-Assignments/blob/main/Stack%20%5BPost%20Class%5D/Stack%20Implementation%20using%20linked%20list.java)
      1. ✔️ [Nearest Smaller Element](https://github.com/javid97/Newton-School-Assignments/blob/main/Stack%20%5BPost%20Class%5D/Nearest%20Smaller%20Element.java)
      1. ✔️ [Stock Span Problem](https://github.com/javid97/Newton-School-Assignments/blob/main/Stack%20%5BPost%20Class%5D/StockSpanProblem.java)
