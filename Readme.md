@@ -13,6 +13,11 @@ Here is the list of assignments with their links to the code
 * '❌' : Means assignment not avaliable yet
 <br/><br/>
 
+1. React Router, Using Stateful Lists, Understanding "Keys", Adding Dynamic Styles, ... - Post Class
+     ___
+     1. ❌ [Golf: Part-2](https://github.com/javid97/React-State-Events-Lifting-The-State-Up-Updating-State-That-Depends-On-The-P-...---In-Class---Ho)
+     1. ✔️ [Relatives List React](https://github.com/javid97/Relatives-List-React)
+     <br/><br/>
 1. ✔️ React State & Events, Lifting The State Up, Updating State That Depends On The P ... - In Class
      ___
      1. ✔️ [Holiday List React Plans for holiday?](https://github.com/javid97/React-State-Events-Lifting-The-State-Up-Updating-State-That-Depends-On-The-P-...---In-Class---Ho)
